@@ -1,0 +1,45 @@
+.row {
+    height: 200vh;
+    justify-content: center;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    width: 500px;
+    height: 30px;
+    position: static;
+    top: 0;
+}
+
+
+ul {
+    list-style: none;
+    font-size: larger;
+}
+
+.col {
+    height: 27vh;
+}
+
+#one {
+
+    position: sticky;
+    top: 0px;
+}
+
+#two {
+    position: sticky;
+    top: 0px;
+}
+
+#three {
+    position: sticky;
+    top: 0px;
+}
+
+#four {
+    position: sticky;
+    top: 0px;
+}
